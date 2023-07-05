@@ -1,0 +1,7 @@
+.venv
+.env
+*.zip
+wine_data.db
+wines-embeddings.parquet
+wines.parquet
+*.code-workspace
